@@ -35,3 +35,17 @@ This is a **.NET (WinForms)** desktop application developed to manage sales oper
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/ParanovaFactory/Sales_Management.git
+
+---
+
+## 👤 Author
+
+**Sadık Berkay Karaduman**  
+📧 [karadumansadikberkay@gmail.com](mailto:karadumansadikberkay@gmail.com)  
+🔗 [GitHub – ParanovaFactory](https://github.com/ParanovaFactory)
+
+---
+
+## 📄 License
+
+MIT License — Feel free to use, modify, and contribute.
